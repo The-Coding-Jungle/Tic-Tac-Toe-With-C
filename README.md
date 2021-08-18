@@ -19,5 +19,6 @@ Simple command l line based Tic-Tac-Toe game made with C.
 
         .\main.bat
         
-        
-[![Video of the project](https://img.youtube.com/vi/Qd4FfRu9NTI/0.jpg)](https://www.youtube.com/watch?v=Qd4FfRu9NTI)
+## YouTube Video
+   
+[![Video of the project](https://img.youtube.com/vi/Lr1fBcXlmpI/0.jpg)](https://www.youtube.com/watch?v=Lr1fBcXlmpI)
