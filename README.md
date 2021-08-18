@@ -18,3 +18,6 @@ Simple command l line based Tic-Tac-Toe game made with C.
 * For Windows 
 
         .\main.bat
+        
+        
+[![Video of the project](https://img.youtube.com/watch?v=Qd4FfRu9NTI&list=PLK59HDBUP-dtptgL7IAPGMuy2KSo75MxM/0.jpg)](https://www.youtube.com/watch?v=Qd4FfRu9NTI&list=PLK59HDBUP-dtptgL7IAPGMuy2KSo75MxM)
