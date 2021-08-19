@@ -1,7 +1,6 @@
 # Tic-Tac-Toe-With-C
 
-Simple command l line based Tic-Tac-Toe game made with C.<br/>
-Version: 1.0
+Simple command l line based Tic-Tac-Toe game made with C.
 
 ## TODO
 
